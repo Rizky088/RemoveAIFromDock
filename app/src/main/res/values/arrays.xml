@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="xposed_scope">
+        <item>com.miui.home</item>
+        <item>com.miui.securitycenter</item>
+    </string-array>
+</resources>
